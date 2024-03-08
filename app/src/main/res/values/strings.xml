@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Restaurante</string>
+    <string name="salir_text">SALIR</string>
+    <string name="nuevo_text">NUEVO</string>
+    <string name="calcular_text">CALCULAR</string>
+    <string name="cantidad_hint">CANTIDAD</string>
+    <string name="menu_prompt">Selecciona un menú</string>
+    <string-array name="menu_options">
+        <item>Menú del día</item>
+        <item>Menú infantil</item>
+        <item>Menú vegetariano</item>
+    </string-array>
+</resources>
